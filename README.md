@@ -1,2 +1,2 @@
-# app-Tidal
-Official Tidal app for PureHarmony 
+# app-ladiT
+Official Tidal app for Oniro 
