@@ -1,2 +1,2 @@
 # app-ladiT
-Official Tidal app for Oniro 
+Official Tidal app for Oniro and AOSP
